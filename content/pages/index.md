@@ -24,7 +24,7 @@ sections:
   - type: features_section
     title: Flamingo Club
     features:
-      - title: Billing
+      - title: Complete your Billing
         content: >
           Follow the instructions below in order to complete your billing
           details and continue.
