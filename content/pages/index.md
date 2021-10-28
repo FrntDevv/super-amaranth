@@ -7,9 +7,6 @@ sections:
       - label: Complete Billing
         url: /features
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: /images/pngegg.png
     image_alt: Hero placeholder image
