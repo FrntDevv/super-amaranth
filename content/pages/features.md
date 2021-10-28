@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Flamingo Billing
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: We offer discreet billing for Flamingo customers.
     align: center
   - type: features_section
     features:
