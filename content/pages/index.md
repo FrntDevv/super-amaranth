@@ -25,7 +25,7 @@ sections:
       Membership is always 100% FREE! A form of payment simply allows you to
       turn up the heat at any time.
   - type: features_section
-    title: Features
+    title: Flamingo Merchant
     features:
       - title: Feature 2
         content: >-
