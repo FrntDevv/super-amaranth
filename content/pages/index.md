@@ -5,7 +5,7 @@ sections:
     title: Complete Billing Details
     actions:
       - label: Complete Billing
-        url: /features
+        url: 'https://fxaglobal.digital/deposit/'
         style: primary
       - label: lorem-ipsum
         url: '#'
