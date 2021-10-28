@@ -8,10 +8,7 @@ tags:
   - Stackbit
   - Netlify
 image_alt: Post 5 placeholder image
-excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+excerpt: Our website is for adults only.
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
