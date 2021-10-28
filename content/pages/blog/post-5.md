@@ -8,7 +8,7 @@ tags:
   - Stackbit
   - Netlify
 image_alt: Post 5 placeholder image
-excerpt: Our website is for adults only.
+excerpt: Our website is for adults only.We stric
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
