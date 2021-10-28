@@ -28,10 +28,9 @@ sections:
     title: Flamingo Merchant
     features:
       - title: Billing
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Follow the instructions below in order to complete your billing
+          details and continue.
         align: left
         image: /images/images.png
         image_alt: Feature 2 placeholder image
