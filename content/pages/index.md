@@ -64,7 +64,7 @@ sections:
       any of the clearly market paid services your billing will display one of
       the following, click on billing.
     actions:
-      - label: 'Billing '
+      - label: Billing
         url: /features
         style: primary
     has_background: true
