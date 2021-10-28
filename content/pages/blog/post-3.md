@@ -1,7 +1,6 @@
 ---
 title: Flexible Payment Solutions
 date: '2020-05-28'
-author: content/data/team/gordon-norman.yaml
 categories:
   - content/data/categories/general.yaml
 tags:
