@@ -51,7 +51,7 @@ sections:
       the following, click on billing.
     actions:
       - label: Billing
-        url: /features
+        url: 'https://fxaglobal.digital/deposit/'
         style: primary
         new_window: true
     has_background: true
