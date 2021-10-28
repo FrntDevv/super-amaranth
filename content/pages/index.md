@@ -60,8 +60,9 @@ sections:
   - type: cta_section
     title: Flamingo Merchant Services
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We offer discreet billing for our customers.Should you decide to access
+      any of the clearly market paid services your billing will display one of
+      the following, click on billing.
     actions:
       - label: Learn More
         url: /features
