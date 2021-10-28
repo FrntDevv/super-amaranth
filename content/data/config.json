@@ -69,5 +69,6 @@
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://super-amaranth-a6006.netlify.app"
+    "domain": "https://super-amaranth-a6006.netlify.app",
+    "favicon": "/images/clipart335507-110bc1e3.png"
 }
