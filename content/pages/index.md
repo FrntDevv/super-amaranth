@@ -7,6 +7,11 @@ sections:
       - label: Complete Billing
         url: /features
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image: /images/pngegg.png
     image_alt: Hero placeholder image
