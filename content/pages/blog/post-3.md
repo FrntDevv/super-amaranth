@@ -9,7 +9,10 @@ tags:
   - JAMstack
 image: /images/pngegg(1)-dd560409.png
 image_alt: Post 3 placeholder image
-excerpt: Flexible Payment Soltions
+excerpt: >-
+  Flamingo Merchants is a global provider of online billing services.Our turnkey
+  solution is a state of the art payment gateway, the ability to offer one time
+  and recurring billing, as well as safe and secure data storage.
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
