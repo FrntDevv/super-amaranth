@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - JAMstack
-image: /images/340px-Macau_ID_card_back_2013.jpg
+image: /images/pngegg(1)-dd560409.png
 image_alt: Post 3 placeholder image
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
