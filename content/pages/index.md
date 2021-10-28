@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home Flamingo
 sections:
   - type: hero_section
     title: Create a free account
