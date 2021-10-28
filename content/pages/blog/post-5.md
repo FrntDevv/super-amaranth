@@ -1,6 +1,6 @@
 ---
 title: Terms & Conditions
-date: '2021-08-02'
+date: '2021-02-01'
 categories:
   - content/data/categories/tutorials.yaml
 tags:
