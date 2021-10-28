@@ -8,7 +8,10 @@ tags:
   - Stackbit
   - Netlify
 image_alt: Post 5 placeholder image
-excerpt: Our website is for adults only.We stric
+excerpt: >-
+  Our website is for adults only.We strictly prohibit and have zero tolerance
+  for any person under 18 years of age accessing, using, or in any way
+  whatsoever having any involvement with our website.
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
