@@ -2,5 +2,11 @@
     "title": "Flamingo Merchant",
     "path_prefix": "/",
     "domain": "https://super-amaranth-a6006.netlify.app",
-    "favicon": "/images/clipart335507-110bc1e3.png"
+    "favicon": "/images/clipart335507-110bc1e3.png",
+    "header": {
+        "title": "lorem-ipsum",
+        "logo_alt": "lorem-ipsum",
+        "has_nav": true,
+        "nav_links": []
+    }
 }
