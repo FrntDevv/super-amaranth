@@ -1,5 +1,5 @@
 ---
-title: Privacy and Terms
+title: Privacy and Terms DMCA
 seo:
   title: Privacy and Terms
   description: This is the privacy and terms page
