@@ -18,7 +18,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    subtitle: Complete your billing
+    subtitle: Complete your billing details
   - type: features_section
     title: Flamingo Club
     features:
