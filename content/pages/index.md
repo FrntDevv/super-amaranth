@@ -2,7 +2,7 @@
 title: Home Flamingo
 sections:
   - type: hero_section
-    title: Create a free account
+    title: Complete Billing Details
     actions:
       - label: Complete Billing
         url: /features
