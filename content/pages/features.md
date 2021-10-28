@@ -5,21 +5,6 @@ sections:
     title: Flamingo Billing
     subtitle: We offer discreet billing for Flamingo customers.
     align: center
-  - type: features_section
-    features:
-      - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /about
-            style: primary
 seo:
   title: Features
   description: This is the features page
