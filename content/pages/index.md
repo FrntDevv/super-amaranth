@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Create a free account
     actions:
-      - label: Learn More
+      - label: Complete Billing
         url: /features
         style: primary
       - label: Contact Us
