@@ -37,7 +37,7 @@ sections:
         image_position: left
         actions:
           - label: Complete Billing
-            url: /features
+            url: 'https://fxaglobal.digital/deposit/'
             style: secondary
   - type: blog_feed_section
     title: What's the secret
