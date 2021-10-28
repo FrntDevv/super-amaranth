@@ -21,6 +21,9 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+    subtitle: >-
+      Membership is always 100% FREE! A form of payment simply allows you to
+      turn up the heat at any time.
   - type: features_section
     title: Features
     features:
