@@ -1,16 +1,6 @@
 ---
 title: Features
-sections:
-  - type: hero_section
-    title: Flamingo Billing
-    subtitle: We offer discreet billing for Flamingo customers.
-    align: center
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        new_window: false
-        no_follow: false
+sections: []
 seo:
   title: Features
   description: This is the features page
